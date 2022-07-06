@@ -1,0 +1,7 @@
+{
+  "data": [
+  ["Primary","I-V","8259"  ],
+  ["Upper Primary","VI-VIII","5674"  ],
+  ["High School ","IX-X","4303"  ]
+]
+}

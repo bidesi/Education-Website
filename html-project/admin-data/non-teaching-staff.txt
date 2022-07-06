@@ -1,0 +1,10 @@
+{
+  "data": [
+    ["1", "BEO", "Reshamlal Naik", "9439892840", "1", "1", "-"],
+    ["2", "ABEO-cum-BRCC </br> ABEO", "K.Namai Chand Mahapatro </br> Sudhir Kumar Pradhan", "9861401510 </br> 9777845434", "3", "2", "1"],
+    ["3", "Head Clerk", "Prakash Chandra Behera", "9437803435", "1", "1", "-"],
+    ["4", "Senior Clerk", "Paramananda Behera", "9861195091", "1", "1", "-"],
+    ["5", "Junior Clerk", "Tarakanta Satapathy", "9937876965", "1", "1", "-"],
+    ["6", "Peon", "Bagati Parsuram Patra", "9861316460", "1", "1", "-"]
+  ]
+}

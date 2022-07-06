@@ -1,0 +1,14 @@
+{
+  "data": [
+    ["1", "Block Education Officer", "1"],
+    ["2", "ABEO-Cum-BRCC", "1"],
+    ["3", "ABEO", "1"],
+    ["4", "Cluster Resource Center", "10" ],
+    ["5", "Gram Panchyat", "21" ],
+    ["6", "No of Village", "53" ],
+    ["7", "No of Habitation", "64"],
+    ["8", "No of Primary School", "62"],
+    ["9", "No of ME Schools", "34" ],
+    ["10", "No of High Schools", "26"]
+  ]
+}

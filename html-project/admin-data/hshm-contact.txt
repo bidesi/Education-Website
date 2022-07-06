@@ -1,0 +1,30 @@
+{
+  "data": [
+  [1,"G. P. High School ,\nSahapur","Amulya Kumar Padhy","9937947741"  ],
+  [2,"Makarajhole High School , Makarjhole","Magati Dakua","9937804116"  ],
+  [3,"Panchayat High School , Durbandha","Himansu  Kumar Pattanayak","9338226763"  ],
+  [4,"U. N. High School ,\nSikiri","Nabin Chandra Pattnaik","9938592721"  ],
+  [5,"Allapur High School , Allapur","Kailashpati Das","7873489963"  ],
+  [6,"J.C.C High School , Babandha","Uma Sankar Sahu","9938824575\n9040980360"  ],
+  [7,"Raghunath Bidyapitha,\nBellagam","Radhakanta Padhy","9438114087"  ],
+  [8,"Kharida High School ,\nKharida","Dilip Kumar Pattanaik","9438521283"  ],
+  [9,"Brundaban Nayak \nSmruti Bidyapitha ,Sasana Ambagam","Krushna Chandra Panigrahy","9861966835"  ],
+  [10,"Pochilima High School , \nPochilima","Gopinath sahu","9337773075"  ],
+  [11,"Govt. High School ,\nKanchuru","Pabitra Mohan Sahu","9861401245"  ],
+  [12,"Bhagabati Vidyapeeth, Burupada","Kamaraju Bhola","9658412165"  ],
+  [13,"Brundaban Bidyapitha, Hinjilicut","Kishore Chandra Padhy","9437816367"  ],
+  [14,"N. A. C. High School ,\nHinjilicut","Damodar Panigrahy","7205498322"  ],
+  [15,"Ganesh Bidyapitha ,\nGondala","Ramachandra Bisoyi","9437772689"  ],
+  [16,"Govt. Girl's High School, Hinjilicut","Santilata Muni","9861377912"  ],
+  [17,"Samalai Bidyapith\n High School,Podangi","Binayak Baitharu","9778820404"  ],
+  [18,"Saru High School ,Saru","Ramesh Chandra Pati","9238827040"  ],
+  [19,"Satyabhama Bidyapeetha , Badakhandi","Bijaya Ku. Panigrahy","9777554465"  ],
+  [20,"Govt. U.G. High School, Khandara","Sabitri Bisoyi","7735279130"  ],
+  [21,"Govt. U.G. High School ,\nD. Pattapur","Suryanarayan Panda","9178581391"  ],
+  [22,"Govt. U.G. High School ,  Nandika ","Bilash Kumari Mohanty","9337742270"  ],
+  [23,"Govt. U.G. High School ,  \nDayapalli","Dibysingha Patnaik","8093870502"  ],
+  [24,"Govt. Upgraded High School ,\nBalakrushnapur","Ullash Behera","9090945966"  ],
+  [25,"Govt. High School ,\nSapuapalli","Sulachana Sahu","9778581675"  ],
+  [26,"D.N.P.Sanskrit Vidyalaya , Dayanidhipur","Biswanath Trtipathy","8895764325"  ]
+]
+}

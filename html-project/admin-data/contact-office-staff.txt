@@ -1,0 +1,21 @@
+{
+  "data":[
+    [1,"Sri Reshamlal Naik","BEO",9439892840  ],
+    [2,"Sri Sudhir Kumar Pradhan","ABEO-cum-BRCC",9777845434  ],
+    [3,"Sri Khetrabasi Naik","ABEO",9437884142  ],
+    [4,"Sri Ajit Kumar Pradhan","TC",9777038710  ],
+    [5,"Sri Prakash Chnadra Behera","Head Clerk",9437803435  ],
+    [6,"Sri Paramananda Behera","Senior Clerk",7381862140  ],
+    [7,"Sri Tarakanta Satapathy","Junior Clerk",9937876965  ],
+    [8,"Sri Bagati Parsuram Patra","Peon",9861316460  ],
+    [9,"Sri Lokanath Dash","MIS-cum-Planning Coordinator",8895588407  ],
+    [10,"Miss P.Padmaja Patro","Accountant-cum-Supporting Staff",9776599593  ],
+    [11,"Smt. Bharti","Accountant-cum-Supporting Staff",9861973510  ],
+    [12,"Sri Soraj Kumar Sahu","Accountant-cum-Supporting Staff",9040311191  ],
+    [13,"Sri Samir Kumar Mahapatra","DEO(BRC)",9861528550  ],
+    [14,"Smt. Mamata Sahu","DEO(MDM)",986173217  ],
+    [15,"Smt.Namita Samantary","BRP(CWSN)",7205193703  ],
+    [16,"Smt.Jhuna Mishra","BRP(CWSN)",8018364642  ],
+    [17,"Sri Madhu Sudan Swain","Swakhir Bharat Coordinator",9178934292  ]
+  ]
+}

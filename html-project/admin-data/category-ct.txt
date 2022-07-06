@@ -1,0 +1,9 @@
+{
+  "data":[
+  [1,"Level-III",6,7,13  ],
+  [2,"Level-IV",35,10,45  ],
+  [3,"Level-V",69,26,95  ],
+  [4,"Patr Time Instructor",null,null,7  ],
+  [5,"Untrained",null,null,4  ]
+]
+}

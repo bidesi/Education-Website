@@ -1,0 +1,18 @@
+{
+  "data": [
+  [1,"PRIMARY SCHOOLS ( S & ME DEPT.)","61"  ],
+  [2,"UPPER PRIMARY SCHOOL( S& ME DEPT.)","32"  ],
+  [3,"BLUCK GRANT ME SCHOOL","3"  ],
+  [4,"HIGHSCHOOLS","10"  ],
+  [5,"UPGRADED HIGHSCHOOL","5"  ],
+  [6,"BLUCK GRANT HIGHSCHOOL","6"  ],
+  [7,"SANSKRIT TOLLS","1"  ],
+  [8,"AIDED HIGHSCHOOL","4"  ],
+  [9,"SSD","NIL"  ],
+  [10,"NCLP","NIL"  ],
+  [11,"MADRSHA","NIL"  ],
+  [12,"OAV","1"  ],
+  [13,"PVT SCHOOLS","26"  ],
+  [14,"HIGHER SECONDERY","3"  ]
+]
+}

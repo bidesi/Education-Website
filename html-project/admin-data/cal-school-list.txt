@@ -1,0 +1,11 @@
+{
+  "data": [
+  [1,"HINJILICUT","GANDALA U.P SCHOOL","Bijaya Kumar Patra\nSujata Parida\n"  ],
+  [2,"HINJILICUT","GOPINATHPUR U.P SCHOOL","Lokanath Behera"  ],
+  [3,"HINJILICUT","MAKARJHOLA U.P SCHOOL","D.Madhab\nN. Raghunath"  ],
+  [4,"HINJILICUT","NODAL U.P SCHOOL,NANDIK","Manoja Kumar Behera"  ],
+  [5,"HINJILICUT","PODANGI BOYS UPS","Pramod Kumar Sahu"  ],
+  [6,"HINJILICUT","SARU BOYS UPS","Hrushikesh Padhi"  ],
+  [7,"HINJILICUT","RALABA UP SCHOOL","Dinabandhu Sahu\nBiraja Kumari Panigrahy"  ]
+]
+}
